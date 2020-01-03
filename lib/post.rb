@@ -11,9 +11,8 @@ class Post
     @@all 
   end 
   def author_name
-  #self.author_name
-  self.author
-    self.author = author  
+   if author 
+     
   end 
   
 end 
