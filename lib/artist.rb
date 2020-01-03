@@ -5,7 +5,7 @@ class Artist
   end 
   
   # def new 
-    
+   
   # end 
   
   # def name 
