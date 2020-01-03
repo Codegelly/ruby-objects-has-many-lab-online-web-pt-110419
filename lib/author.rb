@@ -17,5 +17,8 @@ class Author
    # @posts << posts 
     add_post(posts)
   end 
+  
+  def self.post_count
+  end 
     
 end 
