@@ -9,4 +9,6 @@ class Artist
     
   # end 
   
+  def name 
+  end 
 end 
