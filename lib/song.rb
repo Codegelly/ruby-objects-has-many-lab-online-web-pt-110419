@@ -12,6 +12,7 @@ end
 
 def artist_name
   
+  if artist_name
   
   
 end 
