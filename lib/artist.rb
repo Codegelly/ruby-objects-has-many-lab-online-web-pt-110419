@@ -6,11 +6,12 @@ class Artist
   def initialize(name)
     @name = name 
     @songs = []
-    @@all << self 
+  #  @@all << self 
   end 
   
   def songs
-   @songs
+  # @songs
+   song.all.select {|song|song.artist = self}
   end 
   
   # def name 
