@@ -8,7 +8,7 @@ class Artist
   
   def songs
    @songs
-   @@all 
+   @@all=[] 
   end 
   
   # def name 
